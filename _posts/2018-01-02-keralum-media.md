@@ -4,8 +4,8 @@ description: >-
   Keralum Media creates and publishes content through multiple channels. Each
   has its own focus and audience. The content includes blogging, book
   publishing, podcasts, and video.
-dateModified: '2018-05-10T00:27:51.161Z'
-datePublished: '2018-05-10T00:27:51.680Z'
+dateModified: '2018-05-10T00:29:15.882Z'
+datePublished: '2018-05-10T00:29:16.493Z'
 title: Keralum Media
 author:
   - name: Andrew Neel
