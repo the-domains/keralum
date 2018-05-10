@@ -4,13 +4,10 @@ description: >-
   Keralum Media creates and publishes content through multiple channels. Each
   has its own focus and audience. The content includes blogging, book
   publishing, podcasts, and video.
-dateModified: '2018-05-10T00:29:15.882Z'
-datePublished: '2018-05-10T00:29:16.493Z'
+dateModified: '2018-05-10T00:29:59.588Z'
+datePublished: '2018-05-10T00:30:00.116Z'
 title: Keralum Media
-author:
-  - name: Andrew Neel
-    url: >-
-      https://unsplash.com/photos/cckf4TsHAuw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-01-02-keralum-media.md
