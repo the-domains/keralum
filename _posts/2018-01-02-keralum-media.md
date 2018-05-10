@@ -4,8 +4,8 @@ description: >-
   Keralum Media creates and publishes content through multiple channels. Each
   has its own focus and audience. The content includes blogging, book
   publishing, podcasts, and video.
-dateModified: '2018-05-10T00:29:59.588Z'
-datePublished: '2018-05-10T00:30:00.116Z'
+dateModified: '2018-05-10T00:30:49.962Z'
+datePublished: '2018-05-10T00:30:50.882Z'
 title: Keralum Media
 author: []
 publisher: {}
@@ -18,7 +18,6 @@ _type: Blurb
 
 ---
 # Keralum Media
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8c7709c-b5ab-42e4-96c3-59dad34fb75b.jpg)
 
 Keralum Media creates and publishes content through multiple channels. Each has its own focus and audience. The content includes blogging, book publishing, podcasts, and video.
 
