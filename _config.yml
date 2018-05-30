@@ -58,3 +58,7 @@ typography_spectrum: 0.5259122208226472
 opengraph: {}
 title: keralum media
 url: 'http://keralum.com/'
+purpose:
+  - type: contact
+    url: 'tel:19562050706'
+    label: Call
