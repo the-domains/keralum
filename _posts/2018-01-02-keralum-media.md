@@ -4,8 +4,8 @@ description: >-
   Keralum Media creates and publishes content through multiple channels. Each
   has its own focus and audience. The content includes blogging, book
   publishing, podcasts, and video.
-dateModified: '2018-05-30T02:35:54.511Z'
-datePublished: '2018-05-30T02:35:55.371Z'
+dateModified: '2018-05-30T02:39:15.335Z'
+datePublished: '2018-05-30T02:39:18.168Z'
 title: Keralum Media
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: MediaObject
 
 Keralum Media creates and publishes content through multiple channels. Each has its own focus and audience. The content includes blogging, book publishing, podcasts, and video.
 
-In addition, Keralum Media provides the same production services for clients who want a fast, no-nonsense presence on the Internet. You can best describe what we do as fast and simple media.
+In addition, Keralum Media provides the same production services for clients who want a fast, no-nonsense presence on the Internet. You can best describe what we do as fast and simple media. **Don't make your life complicated!**
 
 Co-launching with Keralum Media is the [Travel.Write.Money][0] blog, [Twitter account][1], and [YouTube channel][2]. Yes, we do this for fun AND profit.
 
@@ -41,7 +41,7 @@ This is a business just like yours. We need to make some money to keep the IRS h
 
 ## Want Proof?
 
-Look at our ad below, which took 30 minutes to do. 
+Look at our ad below, which took 30 minutes to do.
 
 [0]: http://Travel.Write.Money/
 [1]: https://twitter.com/twm_blog "Travel.Write.Money Blog"
