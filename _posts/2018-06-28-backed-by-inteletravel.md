@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-06-28T01:16:32.506Z'
-datePublished: '2018-06-28T01:16:42.282Z'
+dateModified: '2018-06-28T01:16:58.143Z'
+datePublished: '2018-06-28T01:16:58.279Z'
 title: Backed by InteleTravel
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-06-28-backed-by-inteletravel.md
 starred: false
 datePublishedOriginal: '2018-06-28T01:16:42.282Z'
-sourcePath: _posts/2018-06-28-backed-by-inteletravel.md
 _type: Blurb
 
 ---
