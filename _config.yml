@@ -1,12 +1,28 @@
-name: keralum
+typography_spectrum: 0.5259122208226472
+content_rating:
+  adult: false
+color:
+  lightness: 0.7497372429352254
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+  saturation: 0.6114414827898145
+  brandStrength: 0.2309358853381127
+  rhythmicContrast: 0.3781698099337518
+github: true
+opengraph: {}
+layout_spectrum: 0.3054061448201537
 analytics:
   google: ca-pub-2012905995297484
-github: true
-description: 'Your friend in Travel. '
 author:
   name: Shaine Mata
   url: 'http://www.keralum.com'
   email: shaine@keralum.com
+name: keralum
+url: 'http://keralum.com/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -14,6 +30,16 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: About
+    id: 8a0cf19c-6e3a-4055-b9f4-a76e58956d27
+    type: content
+  - name: Contact
+    id: 282b4288-344f-4345-a791-4b015808843f
+    type: content
+  - name: Search
+    url: 'http://shainemata.inteletravel.com'
+    type: external
 collections:
   - index:
       path: /
@@ -26,6 +52,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: keralum travel
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -35,47 +62,23 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/172de4a6-0117-4e80-9136-8b431a8c21de.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - name: About
-    id: 8a0cf19c-6e3a-4055-b9f4-a76e58956d27
-    type: content
-  - name: Contact
-    id: 282b4288-344f-4345-a791-4b015808843f
-    type: content
-layout_spectrum: 0.3054061448201537
-color:
-  lightness: 0.7497372429352254
-  brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
-  saturation: 0.6114414827898145
-  brandStrength: 0.2309358853381127
-  rhythmicContrast: 0.3781698099337518
-content_rating:
-  adult: false
-typography_spectrum: 0.5259122208226472
-opengraph: {}
-title: keralum travel
-url: 'http://keralum.com/'
+description: 'Your friend in Travel. '
 purpose:
   - type: contact
     url: 'tel:19562050706'
