@@ -58,9 +58,6 @@ navigation:
   - name: Contact
     id: 282b4288-344f-4345-a791-4b015808843f
     type: content
-  - name: Works
-    id: 427e5ba1-2c22-4f2b-8b6b-c8e5a5e9a36b
-    type: content
 layout_spectrum: 0.3054061448201537
 color:
   lightness: 0.7497372429352254
