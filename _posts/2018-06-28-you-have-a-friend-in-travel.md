@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Travel is fun. I became an Independent Travel Agent through InteleTravel to
   help my friends and family get good deals on their travel arrangements.
-dateModified: '2018-06-28T01:09:15.714Z'
-datePublished: '2018-06-28T01:09:22.872Z'
+dateModified: '2018-06-28T01:16:58.143Z'
+datePublished: '2018-06-28T01:16:58.278Z'
 title: You have a friend in Travel
 author: []
 publisher: {}
